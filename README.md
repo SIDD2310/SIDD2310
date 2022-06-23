@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd2310&label=Profile%20views&color=0e75b6&style=flat" alt="sidd2310" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 👨‍💻 All of my projects are available at [https://github.com/SIDD2310](https://github.com/SIDD2310)
 
 - 📫 How to reach me **f20200028@dubai.bits-pilani.ac.in**
