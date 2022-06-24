@@ -1,4 +1,4 @@
-
+[![MasterHead](https://c.tenor.com/2auJH5AE1fMAAAAd/welcome.gif)]
 <h1 align="center">Hi 👋, I'm Siddharth Choudhury</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
