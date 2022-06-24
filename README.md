@@ -1,4 +1,4 @@
-[![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-f5632a6aaf.gif)]
+
 <h1 align="center">Hi 👋, I'm Siddharth Choudhury</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
